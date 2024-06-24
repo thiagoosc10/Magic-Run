@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jugador
+  - Enemigo
+  - ObjectHeadEnemy
+  - CheckSuelo
+  - LeftBoundary
+  - RightBoundary
+  - Ground
+  - PlataformaMovil
+  - DisparoPJ
+  - DisparoEnemigo
+  - Door
+  - Muerte
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - "Da\xF1o"
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - Suelo
+  - Plataformas
+  - DisparoEnemigo
+  - DisparoPJ
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundCastillo
+    uniqueID: 1215169373
+    locked: 0
+  - name: BackgroundDeco2
+    uniqueID: 2220571827
+    locked: 0
+  - name: Background2
+    uniqueID: 3745530083
+    locked: 0
+  - name: BackgroundDecorativo
+    uniqueID: 4095111703
+    locked: 0
+  - name: Plataformas
+    uniqueID: 2483535347
+    locked: 0
+  - name: Suelo
+    uniqueID: 3882279401
+    locked: 0
+  - name: "Obst\xE1culos"
+    uniqueID: 1429489637
+    locked: 0
+  - name: DisparoJugador
+    uniqueID: 2458096021
+    locked: 0
+  - name: Luces
+    uniqueID: 830399255
+    locked: 0
+  - name: Jugador
+    uniqueID: 3652050365
+    locked: 0
+  - name: PuntosPlataforma
+    uniqueID: 265914075
+    locked: 0
+  - name: Generador
+    uniqueID: 1217680253
+    locked: 0
